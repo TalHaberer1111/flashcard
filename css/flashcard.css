@@ -1,0 +1,22 @@
+.initially-hidden {
+  display: none;
+}
+
+body {
+  font-family: fantasy;
+  font-size: 20px;
+  color: #fff;
+  background-image: url(http://admin.mylen.ru/images/Wallpaper-Blue-Lines-valichi-di-frontiera-il-bagliore.jpg);
+  margin-left: 100px;
+}
+
+
+h1 {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+li {
+  margin: 10px;
+  list-style: none;
+}
